@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Yanko
+- 👀 I’m interested in web development, devops and python automations
+- 🌱 I’m currently learning web development and python automations
+- ⚡ Fun fact: In my free time I watch motorsports closely.
